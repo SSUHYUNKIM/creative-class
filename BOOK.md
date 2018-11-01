@@ -372,7 +372,7 @@
  
  
  
- !(생존자_적성)[(https://postfiles.pstatic.net/MjAxODExMDJfMTgg/MDAxNTQxMTAxMTgyNDk3.hxKYWo2YFLx3iqIhT1w1pdEUWkhb4MTOsB3VPfCYSY8g.5JNk5mYGEkZSWrN5cavkWSF-SCMfVjapzUueNAKYFhEg.JPEG.minsuk525/%EC%83%9D%EC%A1%B4%EC%9E%90_%EC%A0%81%EC%84%B1.jpg?type=w773)
+ !(생존자_적성)[https://blog.naver.com/minsuk525/221389933056]
 
       * 1.기계 숙달(12시)
         * 암호 해독 도중에 나타나는 교정의 성공범위가 10% 증가
@@ -471,7 +471,8 @@
       * 4-3-2.괴력
         * 괴력으로 인해 나무 판자를 사용해 감시자를 적중시켰을 때 감시자의 기절 회복 속도가 10%/15%/20%만큼 감소
        
-   * 감시자
+ 
+  * 감시자
       * 1.상처 악화(12시)
         * 부상 당한 생존자의 해독, 치료, 파괴 속도가 5%만큼 감소
        
