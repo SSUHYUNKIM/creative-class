@@ -5,6 +5,7 @@
 
 
 ### 의사(에밀리 다이어)
+![의사](https://postfiles.pstatic.net/MjAxODExMDJfMTg2/MDAxNTQxMTAzNzE1MjI1.-ZI-_ApGi_mwaIwaWa8KYU064TREeXVWZuFcahid4Q0g.zicfII-NPtFi1dcitDUCmHLfsi1-VGlnuSWSkAfrUj0g.JPEG.minsuk525/%EA%B0%84%ED%98%B8%EC%82%AC.jpg?type=w773)
    * 외적 특성
       * 의약 정통
         * 치료 도구를 소지하며, 부상 중에 자신을 치료할 수 있음.
