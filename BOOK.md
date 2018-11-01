@@ -4,6 +4,8 @@
 ## 생존자 프로필(캐릭터)
 
 
+
+
 ### 의사(에밀리 다이어)
 ![의사](https://postfiles.pstatic.net/MjAxODExMDJfMTg2/MDAxNTQxMTAzNzE1MjI1.-ZI-_ApGi_mwaIwaWa8KYU064TREeXVWZuFcahid4Q0g.zicfII-NPtFi1dcitDUCmHLfsi1-VGlnuSWSkAfrUj0g.JPEG.minsuk525/%EA%B0%84%ED%98%B8%EC%82%AC.jpg?type=w773)
    * 외적 특성
@@ -18,6 +20,8 @@
         * 판자 및 창틀 관련 모션의 속도가 15%만큼 감소
       * 단골손님
         * 피해를 입은 후 빨라지는 시간이 2초만큼 증가함.
+
+
 
 
 ### 변호사(프레디 라일리)
@@ -36,6 +40,8 @@
         * 피해를 입은 후 빨라지는 시간이 2초만큼 증가함.
 
 
+
+
 ### 도둑(크리처 피어슨)
 ![도둑](https://postfiles.pstatic.net/MjAxODExMDJfMTUx/MDAxNTQxMTAzNzMwMjQw.1MHOTNnKV4Rs8UDyZ0FxU4mZ8s-R3YvEnh5zw-gB9dQg.Ts-AWDZhkaFJumApunV0VBVBIvTDvC8ZdbZOMubF8gUg.JPEG.minsuk525/%EB%8F%84%EB%91%91.jpg?type=w773)
    * 외적 특성
@@ -49,6 +55,8 @@
         * 교정 성공 범위가 10%만큼 감소
       * 자물쇠 기술
         * 어깨너머로 배운 모든 동료의 상자를 여는 속도가  100%만큼 증가
+
+
 
 
 ### 정원사
@@ -65,6 +73,8 @@
         * 피해를 입은 후 빨라지는 시간이 2초 증가
 
 
+
+
 ### 행운아
 ![행운아](https://postfiles.pstatic.net/MjAxODExMDJfMTI2/MDAxNTQxMTAzNzg0ODU0.XVoPvT4foyRcW_PksqiKBkQ5PeVE4pSrsRMatsjOUe8g.0TtzmJ7SmYZbtxrFeRU95srin_7ZXf5g_JjGXhaZCTQg.JPEG.minsuk525/%ED%96%89%EC%9A%B4%EC%95%84.jpg?type=w773)
    * 외적 특성
@@ -72,6 +82,8 @@
         * 매번 도구 상자를 열기 전, 갖고 싶은 도구를 선택할 수 있으며 선택한 도구의 출현 확률이 대폭 상승
       * 단골 손님
         * 피해를 입은 후에 빨라지는 시간이 2초만큼 증가
+
+
 
 
 ### 모험가
@@ -85,6 +97,8 @@
         * 발자국의 지속시간이 1초 감소, 판자나 벽을 뛰어넘어도 감시자에게 신호가 표시되지 않음
       * 호기심
         * 교정 발동 확률이 30% 증가, 교정 발동시 성공 범위가 30% 감소
+
+
 
 
 ### 용병
@@ -101,6 +115,8 @@
         * 부상 상태에서 일반 공격을 1회 당해도 쓰러지지 않으며, 15초가 지난 후에 쓰러짐, 부상 상태에서 일반 공격을 2회 당하면 바로 쓰러짐.
 
 
+
+
 ### 공군
 ![공군](https://postfiles.pstatic.net/MjAxODExMDJfMTUw/MDAxNTQxMTAzNzIwODg3.TyzHT9jpk0nO60fUmIadhRqfk_V1RqGJyuQKACcwcXAg.-qo7cGS8o7DBHQP2BDpIh2Tgqey2YafnKurMDmqRfC4g.JPEG.minsuk525/%EA%B3%B5%EA%B5%B0.jpg?type=w773)
    * 외적 특성  
@@ -112,6 +128,8 @@
         * 의자에 묶인 동료 하나당 암호 해독 속도와 비밀번호 입력 속도가 60% 감소
       * 오랜 훈련
         * 판자 및 창틀 관련 모션 속도가 10% 증가
+
+
 
 
 ### 기계공
@@ -129,6 +147,8 @@
         * 동료가 부상을 입거나 광기의 의자에 묶여있을 때 암호 해독 속도와 비밀번호 입력 속도가 45% 감소, 이 효과는 중첩 가능
 
 
+
+
 ### 포워드
 ![포워드](https://postfiles.pstatic.net/MjAxODExMDJfMTQ1/MDAxNTQxMTAzNzgxMTM5.DEjf83ENInwj9so115elkflk7abxrTZ2FG5nLAX3vWog.lRkb0RuyqxKxmiIK-3lQmxeXws6-VVPU-P0J69V-vqMg.JPEG.minsuk525/%ED%8F%AC%EC%9B%8C%EB%93%9C.jpg?type=w773)
    * 외적 특성  
@@ -144,6 +164,8 @@
         * 풍선에 묶였을 때 몸부림 치는 속도가 10% 증가
 
 
+
+
 ### 맹인
 ![맹인](https://postfiles.pstatic.net/MjAxODExMDJfMjQ2/MDAxNTQxMTAzNzM5MDE2.Gj89LS0Vt1RE455Vr8VcfUScsEF2DPybq8J3Jf-4-Hwg.05iVdy8v7LFoocn4OlU_-hFs_-E33dU6vvlSyoasRiMg.JPEG.minsuk525/%EB%A7%B9%EC%9D%B8.jpg?type=w773)
    * 외적 특성  
@@ -155,6 +177,8 @@
         * 암호 해독시 교정이 발생하지 않으며 해독속도가 30% 증가
       * 허약함
         * 판자 및 창틀 관련 모션의 속도가 30% 감소
+
+
 
 
 ### 샤먼
@@ -173,6 +197,8 @@
         * 동료들이 치료되는 데 걸리는 시간이 10% 감소, 샤먼이 치료되는 데 걸리는 시간이 30%만큼 감소
 
 
+
+
 ### 조향사
 ![조향사](https://postfiles.pstatic.net/MjAxODExMDJfNzkg/MDAxNTQxMTAzNzcyNDg5.RD2yhLolQwxRaSXbEU1N3YrzQgouksKXvD3kJ6s5kBgg.j3qI4U7SDyqWXwSL6OnSTxhqVlDwY_xT1gELOWqP5Rkg.JPEG.minsuk525/%EC%A1%B0%ED%96%A5%EC%82%AC.jpg?type=w773)
    * 외적 특성
@@ -186,6 +212,8 @@
         * 치료의 필요한 시간이 30%만큼 증가
 
 
+
+
 ### 마술사
 ![마술사](https://postfiles.pstatic.net/MjAxODExMDJfMTc5/MDAxNTQxMTAzNzM0OTUy.WnkgDT8A0jsm5zTm0p93lFmE5u3QKSvtRY7Iafg3IDQg.mmjzILuiJ9KCpkyHwhbWMtf5qq2HMlJIdbUSJi8bwHkg.JPEG.minsuk525/%EB%A7%88%EC%88%A0%EC%82%AC.jpg?type=w773)
    * 외적 특성  
@@ -196,6 +224,8 @@
         * 암호를 해독할 시 교정의 발동 확률이 20% 감소, 교정의 성공 범위가 20%
       * 식별 불가
         * 광기의 의자에서 구출 되는데 걸리는 시간이 100% 증가 
+
+
 
 
 ### 카우보이
@@ -215,6 +245,8 @@
       * 보호본능
         * 여성 캐릭터를 등에 업은 채로 감시자에게 공격 당할 시, 카우보이가 2회의 피해를 입고 동료는 피해를 입지 않음.
         * 남성 캐릭터를 등에 업은 채로 감시자에게 공격 당할 시, 두 명이 각각 1회의 피해를 입음.
+
+
 
 
 ### 무희
@@ -237,7 +269,15 @@
 
 
 
+
+
 ## 감시자 보고서(캐릭터)
+
+
+
+
+
+
 
 
 ### 공장장
@@ -255,6 +295,8 @@
       * 생존자를 붙잡으면 공장장은 두 번째 꼭두각시를 획득함.
   
   
+
+
 ### 사냥터지기
 ![사냥터지기](https://postfiles.pstatic.net/MjAxODExMDJfMTc3/MDAxNTQxMTA3MTAzOTYy.z_cx8SkcWRWTncYA1GuWzqXJJ-8jeSJyANsR0_ZSqKcg.eCCptTo1-EOt9DNDGcFIEvmNqWSqgxrefNcLKiZCbzog.JPEG.minsuk525/%EC%82%AC%EB%83%A5%ED%84%B0%EC%A7%80%EA%B8%B0.jpg?type=w773)
    * 외적 특성
@@ -267,6 +309,8 @@
      * 분노의 갈퀴 사슬
        * 존재감 2500
        * 사슬은 적중한 생존자에게 대미지를 입힘.
+
+
 
 
 ### 붉은 나비
@@ -290,6 +334,8 @@
       * 더 빠른 속도로 목표 생존자를 향해 돌진
 
 
+
+
 ### 광대
 ![광대](https://postfiles.pstatic.net/MjAxODExMDJfMTE5/MDAxNTQxMTA3MDczODM2.mgxu-PTulZMAuOQOAt_xkCQBjpHeeSpnYaZdUSCihfIg.MJaE2xRseP4gFcNVS606KmvQpYp3KAa2-MxeLsExSKAg.JPEG.minsuk525/%EA%B4%91%EB%8C%80.jpg?type=w773)
  * 외적 특성
@@ -304,6 +350,8 @@
    * 광란의 돌진
      * 존재감 2500
      * 더 멀리, 더 빠르게 돌진함.
+
+
 
 
 ### 리퍼
@@ -322,6 +370,8 @@
    * 유령 은신
      * 존재감 2500
      * 더 빠른 속도로 안개 은신 상태에 진입하며 안개 은신 상태에서의 이동속도가 증가
+
+
 
 
 ### 거미
@@ -348,6 +398,8 @@
      * 두꺼운 그물의 비행 속도는 비교적 느리지만 목표에 적중하면 목표에게 즉시 3스택의 거미줄 속박 상태를 중첩시킴.
 
 
+
+
 ### 노란 옷의 왕
 ![노란옷의왕](https://postfiles.pstatic.net/MjAxODExMDJfMjk1/MDAxNTQxMTA3MDgwMzU4.kf9XXxaz4F9IhS1zX1K0Yp_s1xugqDhdcsEom-1owhsg.k1A6zLwrwRhm4lbT5fni9ipzFc4uYemPviE2fzrQ2iAg.JPEG.minsuk525/%EB%85%B8%EB%9E%80%EC%98%B7%EC%9D%98%EC%99%95.jpg?type=w773)
  * 외적 특성
@@ -369,6 +421,8 @@
      * 생존자를 응시하면 악몽의 습격의 쿨타임이 15만큼 증가함.
 
 
+
+
 ### 사진사
 ![사진사](https://postfiles.pstatic.net/MjAxODExMDJfMTY0/MDAxNTQxMTA3MTEwNzU0.E6KUpNr1KZBxTg6H1zYcvHgLl3NftA9xXQDqRZ-mWZsg.RXx1q9mgvSf05MS59t9rozCx0t4ascwXagHHTeGCYikg.JPEG.minsuk525/%EC%82%AC%EC%A7%84%EC%82%AC.jpg?type=w773)
  * 외적 특성
@@ -388,6 +442,8 @@
      * 존재감 2500
      * 요셉은 이동 시 15초 간의 흔적을 남김, 스킬 버튼을 길게 눌러, 버튼을 누른 시간에 따라 과거에 지나친 위치로 이동함.
   
+
+
 
 
 
