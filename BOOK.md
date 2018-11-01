@@ -241,6 +241,7 @@
 
 
 ### 공장장
+![공장장](https://postfiles.pstatic.net/MjAxODExMDJfMTM0/MDAxNTQxMTA3MDY2NjU0.STc4GSKhG7JfB-3rizTjqOWdAtnuQ9HANrGyuxvvYX4g.gJyNN7FacdBcKCsnikkS05knZN5Uc7UHdH0s0qYHL2kg.JPEG.minsuk525/%EA%B3%B5%EC%9E%A5%EC%9E%A5.jpg?type=w773)
   * 외적 특성
     * 없음
   * 형태 변화
@@ -255,6 +256,7 @@
   
   
 ### 사냥터지기
+![사냥터지기](https://postfiles.pstatic.net/MjAxODExMDJfMTc3/MDAxNTQxMTA3MTAzOTYy.z_cx8SkcWRWTncYA1GuWzqXJJ-8jeSJyANsR0_ZSqKcg.eCCptTo1-EOt9DNDGcFIEvmNqWSqgxrefNcLKiZCbzog.JPEG.minsuk525/%EC%82%AC%EB%83%A5%ED%84%B0%EC%A7%80%EA%B8%B0.jpg?type=w773)
    * 외적 특성
      * 없음
    * 형태 변화
@@ -268,6 +270,7 @@
 
 
 ### 붉은 나비
+![붉은나비](https://postfiles.pstatic.net/MjAxODExMDJfMjUz/MDAxNTQxMTA3MDk2Nzkw.RuoGa7YNyAnUcU_i6XmcrrZbyAXTfNHHwIlV-MyFs5og.juUemBKf2kYbYDuuRouW9cNv5Jq6CO6P4Qv4Kp--usQg.JPEG.minsuk525/%EB%B6%89%EC%9D%80%EB%82%98%EB%B9%84.jpg?type=w773)
  * 외적 특성
     * 세가지 형태
       * 차분할 때의 미인 형태 : 경계범위가 좁으며, 이동속도가 비교적 빠름.
@@ -288,6 +291,7 @@
 
 
 ### 광대
+![광대](https://postfiles.pstatic.net/MjAxODExMDJfMTE5/MDAxNTQxMTA3MDczODM2.mgxu-PTulZMAuOQOAt_xkCQBjpHeeSpnYaZdUSCihfIg.MJaE2xRseP4gFcNVS606KmvQpYp3KAa2-MxeLsExSKAg.JPEG.minsuk525/%EA%B4%91%EB%8C%80.jpg?type=w773)
  * 외적 특성
    * 게임 중 곳곳에 흩어져 있는 부품을 모아 자신의 무기를 개조할 수 있음  
    * 1.바람날개 : 공격 동작의 속도와 로켓 돌진의 속도가 증가.
@@ -303,6 +307,7 @@
 
 
 ### 리퍼
+![리퍼](https://postfiles.pstatic.net/MjAxODExMDJfOTEg/MDAxNTQxMTA3MDg2MTE3.jmihkM7I6fyIL65nVChzGb2t1-P2frxeYzv2L6mM8Xog.tJ2mSOEMP0IVb22X2Uu1U6yS-7uGgCiW1p8BISdNDtUg.JPEG.minsuk525/%EB%A6%AC%ED%8D%BC.jpg?type=w773)
  * 외적 특성
    * 없음
  * 형태 변화
@@ -320,6 +325,7 @@
 
 
 ### 거미
+![거미](https://postfiles.pstatic.net/MjAxODExMDJfMjIw/MDAxNTQxMTA2OTA2NDk3.h8-9tL_jeMhQN29kqwCT26y-Zh4zEB3CpaV9aanYS8Yg.gxXj7lhrbx73gGEzzZbHpoq0WkkHJ37SYvmynZ8D4h0g.JPEG.minsuk525/%EA%B1%B0%EB%AF%B8.jpg?type=w773)
  * 외적 특성
    * 고치형
    * 광기의 의자 없이 거미줄을 100만큼 사용하여 생존자를 고치로 만들어 그자리에서 탈락시킬 수 있음.
@@ -343,6 +349,7 @@
 
 
 ### 노란 옷의 왕
+![노란옷의왕](https://postfiles.pstatic.net/MjAxODExMDJfMjk1/MDAxNTQxMTA3MDgwMzU4.kf9XXxaz4F9IhS1zX1K0Yp_s1xugqDhdcsEom-1owhsg.k1A6zLwrwRhm4lbT5fni9ipzFc4uYemPviE2fzrQ2iAg.JPEG.minsuk525/%EB%85%B8%EB%9E%80%EC%98%B7%EC%9D%98%EC%99%95.jpg?type=w773)
  * 외적 특성
    * 공포의 형상
    * 생존자가 경계 범위 내에서 너무 오래 머물거나, 공격을 받거나, 순찰자에게 물리거나, 교정에 실패하거나, 동료가 쓰러지거나 광기의 의자에 묶이면 공      포에 빠져 심연의 촉수가 나타남.
@@ -363,6 +370,7 @@
 
 
 ### 사진사
+![사진사](https://postfiles.pstatic.net/MjAxODExMDJfMTY0/MDAxNTQxMTA3MTEwNzU0.E6KUpNr1KZBxTg6H1zYcvHgLl3NftA9xXQDqRZ-mWZsg.RXx1q9mgvSf05MS59t9rozCx0t4ascwXagHHTeGCYikg.JPEG.minsuk525/%EC%82%AC%EC%A7%84%EC%82%AC.jpg?type=w773)
  * 외적 특성
    * 사진 속 세계
      * 사진기로 한 순간을 촬영해, 그 순간의 생존자와 풍경을 복제하여, 멈춰있는 사진 속 세계를 만들어 냄.
