@@ -37,6 +37,7 @@
 
 
 ### 도둑(크리처 피어슨)
+![도둑](https://postfiles.pstatic.net/MjAxODExMDJfMTUx/MDAxNTQxMTAzNzMwMjQw.1MHOTNnKV4Rs8UDyZ0FxU4mZ8s-R3YvEnh5zw-gB9dQg.Ts-AWDZhkaFJumApunV0VBVBIvTDvC8ZdbZOMubF8gUg.JPEG.minsuk525/%EB%8F%84%EB%91%91.jpg?type=w773)
    * 외적 특성
       * 교활함
         * 손전등으로 일정 시간 동안 감시자를 비춰 잠시동안 행동력을 잃게함.
@@ -51,6 +52,7 @@
 
 
 ### 정원사
+![정원사](https://postfiles.pstatic.net/MjAxODExMDJfMjgx/MDAxNTQxMTAzNzY3NTMx.Pm5WDlibYtQCv88fcgVXT4j3K9QopgFUMB8DRyZijPwg.dmrPCbWSzhSM5xwKjrlniCs4P-blUxxBZ1Tk7TSmoGUg.JPEG.minsuk525/%EC%A0%95%EC%9B%90%EC%82%AC.jpg?type=w773)
    * 외적 특성
       * 장인의 솜씨 
         * 공구함으로 광기의 의자를 파괴 가능, 광기의 의자 부술수록 의자 파괴 시간 증가, 공구함 사용해도 소모 발생 없음
@@ -64,6 +66,7 @@
 
 
 ### 행운아
+![행운아](https://postfiles.pstatic.net/MjAxODExMDJfMTI2/MDAxNTQxMTAzNzg0ODU0.XVoPvT4foyRcW_PksqiKBkQ5PeVE4pSrsRMatsjOUe8g.0TtzmJ7SmYZbtxrFeRU95srin_7ZXf5g_JjGXhaZCTQg.JPEG.minsuk525/%ED%96%89%EC%9A%B4%EC%95%84.jpg?type=w773)
    * 외적 특성
       * 행운아
         * 매번 도구 상자를 열기 전, 갖고 싶은 도구를 선택할 수 있으며 선택한 도구의 출현 확률이 대폭 상승
@@ -72,6 +75,7 @@
 
 
 ### 모험가
+![모험가](https://postfiles.pstatic.net/MjAxODExMDJfMjUy/MDAxNTQxMTAzNzQ0OTUz._jLFcm6QBNxbuIkmd8HPw3GjFJxCGilW3l4zx7FnwjMg._mNhx7nxo1ipd36YZ_YSopeXX5GCLJbcz57j6f3YFFYg.JPEG.minsuk525/%EB%AA%A8%ED%97%98%EA%B0%80.jpg?type=w773)
    * 외적 특성
       * 탐험 환상
         * 걸리버 여행기를 소지, 여행기를 읽으면 소인국의 주민으로 변신
@@ -84,6 +88,7 @@
 
 
 ### 용병
+![용병](https://postfiles.pstatic.net/MjAxODExMDJfMTI1/MDAxNTQxMTAzNzYyODkz.RJoha9y-Qme0HepXeW_IqyMKb2q5rFIOcAppckNgKUkg.jrKxIzxDXvuMshaKQDONpYjIL74Eb2pMIln7Nt06TBYg.JPEG.minsuk525/%EC%9A%A9%EB%B3%91.jpg?type=w773)
    * 외적특성
       * 강철의 돌진
         * 강철 팔꿈치 보호대를 소지하며, 벽을 지나치면서 밀치는 힘으로 정면으로 돌진
@@ -97,6 +102,7 @@
 
 
 ### 공군
+![공군](https://postfiles.pstatic.net/MjAxODExMDJfMTUw/MDAxNTQxMTAzNzIwODg3.TyzHT9jpk0nO60fUmIadhRqfk_V1RqGJyuQKACcwcXAg.-qo7cGS8o7DBHQP2BDpIh2Tgqey2YafnKurMDmqRfC4g.JPEG.minsuk525/%EA%B3%B5%EA%B5%B0.jpg?type=w773)
    * 외적 특성  
       * 정밀 타격
         * 신호총 소지하며 신호총을 감시자에게 적중 시켰을 때 감시자의 기절 회복 속도가 30% 느려짐.
@@ -109,6 +115,7 @@
 
 
 ### 기계공
+![기계공](https://postfiles.pstatic.net/MjAxODExMDJfMTk3/MDAxNTQxMTAzNzI1NTkz.ZbOvelHXyDKAu28Sw9gYZDscXxzTz_9BYtcTMjFlE_sg.NOEzqb3b1ReqKBJhA2NAb8N_zzwJlVGyNUstScXqWW0g.JPEG.minsuk525/%EA%B8%B0%EA%B3%84%EA%B3%B5.jpg?type=w773)
    * 외적 특성  
       * 기계 조종
         * 기계 인형을 소지, 인형을 조종할 때 내구도 소모가 50% 감소
@@ -123,6 +130,7 @@
 
 
 ### 포워드
+![포워드](https://postfiles.pstatic.net/MjAxODExMDJfMTQ1/MDAxNTQxMTAzNzgxMTM5.DEjf83ENInwj9so115elkflk7abxrTZ2FG5nLAX3vWog.lRkb0RuyqxKxmiIK-3lQmxeXws6-VVPU-P0J69V-vqMg.JPEG.minsuk525/%ED%8F%AC%EC%9B%8C%EB%93%9C.jpg?type=w773)
    * 외적 특성  
       * 럭비선수
         * 럭비공을 소지, 럭비공을 사용할 시 공을 끌어안고 전방으로 빠르게 돌진하며 힘이 다 떨어지면 기절
@@ -137,6 +145,7 @@
 
 
 ### 맹인
+![맹인](https://postfiles.pstatic.net/MjAxODExMDJfMjQ2/MDAxNTQxMTAzNzM5MDE2.Gj89LS0Vt1RE455Vr8VcfUScsEF2DPybq8J3Jf-4-Hwg.05iVdy8v7LFoocn4OlU_-hFs_-E33dU6vvlSyoasRiMg.JPEG.minsuk525/%EB%A7%B9%EC%9D%B8.jpg?type=w773)
    * 외적 특성  
       * 반향정위
         * 패시브 : 주변 작은 범위 내의 감시자의 위치를 감지함.
@@ -149,6 +158,7 @@
 
 
 ### 샤먼
+![샤먼](https://postfiles.pstatic.net/MjAxODExMDJfMjU1/MDAxNTQxMTAzNzU4NjQx.NPyi6H8XhwLcItdn8AmdLz6l_bbFbMkrbK-qj89l8WYg.mZFtbX61I0_kmPJJSU_V30S5wXVMUkEoaiw4MZwCBEIg.JPEG.minsuk525/%EC%83%A4%EB%A8%BC.jpg?type=w773)
    * 외적특성  
       * 열쇠
         * 열쇠를 소지하며, 사용시 선택한 위치까지의 직선 통로를 만듬, 통로는 오염된 토지나 구역을 통과할 수 없음.
@@ -164,6 +174,7 @@
 
 
 ### 조향사
+![조향사](https://postfiles.pstatic.net/MjAxODExMDJfNzkg/MDAxNTQxMTAzNzcyNDg5.RD2yhLolQwxRaSXbEU1N3YrzQgouksKXvD3kJ6s5kBgg.j3qI4U7SDyqWXwSL6OnSTxhqVlDwY_xT1gELOWqP5Rkg.JPEG.minsuk525/%EC%A1%B0%ED%96%A5%EC%82%AC.jpg?type=w773)
    * 외적 특성
      * 망각의 향
         * '망각의 향'을 뿌려 현재 자신의 상태와 위치를 기록할 수 있음. 
@@ -176,6 +187,7 @@
 
 
 ### 마술사
+![마술사](https://postfiles.pstatic.net/MjAxODExMDJfMTc5/MDAxNTQxMTAzNzM0OTUy.WnkgDT8A0jsm5zTm0p93lFmE5u3QKSvtRY7Iafg3IDQg.mmjzILuiJ9KCpkyHwhbWMtf5qq2HMlJIdbUSJi8bwHkg.JPEG.minsuk525/%EB%A7%88%EC%88%A0%EC%82%AC.jpg?type=w773)
    * 외적 특성  
       * 마술 연기
         * 마술봉을 소지하며, 사용시 제자리에 허상을 남기고 수초간 은신, 은신 상태에서 공격 당할 시 공포의 일격 발동
@@ -187,6 +199,7 @@
 
 
 ### 카우보이
+![카우뵈](https://postfiles.pstatic.net/MjAxODExMDJfMTY0/MDAxNTQxMTAzNzc3MDQ5.8vN8ZdVAiN8IXMdL-UoXojjxOjYkjUjMPYN2aX31Mpcg.Xds-m-agKPh76RO1_SoiFz6y0k6vJdnyM8CQokt0am8g.JPEG.minsuk525/%EC%B9%B4%EC%9A%B0%EB%B5%88.jpg?type=w773)
    * 외적 특성
       * 올가미 기예
         * 카우보이는 채찍 올가미를 소지, 버튼을 터치하여 길게 눌러 지정한 방향으로 올가미를 던질 수 있음.
@@ -204,7 +217,8 @@
         * 남성 캐릭터를 등에 업은 채로 감시자에게 공격 당할 시, 두 명이 각각 1회의 피해를 입음.
 
 
-### 무희  
+### 무희
+![무희](https://postfiles.pstatic.net/MjAxODExMDJfNTkg/MDAxNTQxMTAzNzQ5MDA5.CHL6obER5Eio04LNOMjQpRoHE_vORDDUrQJNJHw4Ps4g.8bMYxdEiAKoMFrkmF8AaGn6CMbZHi7Btgl02_ivUHykg.JPEG.minsuk525/%EB%AC%B4%ED%9D%AC.jpg?type=w773)
    * 외격 특성
       * 이중주
         * 오르골을 소지하여 두가지 음악을 재생 가능
