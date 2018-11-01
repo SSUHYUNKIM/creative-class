@@ -21,6 +21,7 @@
 
 
 ### 변호사(프레디 라일리)
+![변호사](https://postfiles.pstatic.net/MjAxODExMDJfMTEz/MDAxNTQxMTAzNzUzMzc2.01wUaAt08J00-mJCUAaxnK4zB9Yirq8cPzrj9H9EguAg.ASFlycqE82-W3HXjUosX0_eaSpXCpevJBNfMZ1JEcJ4g.JPEG.minsuk525/%EB%B3%80%ED%98%B8%EC%82%AC.jpg?type=w773)
    * 외적 특성
       * 주도면밀
         * 지도를 사용하여 대형 건축물, 해독되지 않은 암호 장치, 출구의 위치를 볼 수 있음.
