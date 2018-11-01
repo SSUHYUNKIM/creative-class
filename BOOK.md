@@ -369,6 +369,11 @@
 
 # 인격 구조(능력치)
    * 생존자
+ 
+ 
+ 
+ !()[(https://postfiles.pstatic.net/MjAxODExMDJfMTgg/MDAxNTQxMTAxMTgyNDk3.hxKYWo2YFLx3iqIhT1w1pdEUWkhb4MTOsB3VPfCYSY8g.5JNk5mYGEkZSWrN5cavkWSF-SCMfVjapzUueNAKYFhEg.JPEG.minsuk525/%EC%83%9D%EC%A1%B4%EC%9E%90_%EC%A0%81%EC%84%B1.jpg?type=w773)
+
       * 1.기계 숙달(12시)
         * 암호 해독 도중에 나타나는 교정의 성공범위가 10% 증가
        
